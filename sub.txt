@@ -1,0 +1,1 @@
+vless://cce7475c-182b-42c5-b6e4-768bfa7b868e@3537215-pavlovvg.twc1.net:8443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=3537215-pavlovvg.twc1.net#apple_tv2
