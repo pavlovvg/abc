@@ -1,1 +1,2 @@
 vless://cce7475c-182b-42c5-b6e4-768bfa7b868e@3537215-pavlovvg.twc1.net:8443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=3537215-pavlovvg.twc1.net#apple_tv2
+vless://241bf147-c23b-4133-8f95-cea71db1d331@3537215-pavlovvg.twc1.net:443?type=tcp&security=reality&pbk=BbwlzD3vJ-Zb_O4BOaTmrPjEQFy_oZbHhvQ90vzl83E&fp=chrome&sni=google.com&sid=6be0a684bcd4&spx=%2F&flow=xtls-rprx-vision#apple_tv
