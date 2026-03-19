@@ -3,3 +3,4 @@ vless://2b3e1b9c-6856-41ca-8555-a7137bdfe9ae@3537215-pavlovvg.twc1.net:443?type=
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJhcHBsZXR2X3ZtZXNzIiwKICAiYWRkIjogIjM1MzcyMTUtcGF2bG92dmcudHdjMS5uZXQiLAogICJwb3J0IjogMzk5MDMsCiAgImlkIjogImIwOTQzMWFiLWFkZTMtNDU2Yi04ZGJmLWFjMTg4MDFhNzc3ZCIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIgp9
 trojan://2fsePxwDMv@3537215-pavlovvg.twc1.net:25449?type=tcp&security=reality&pbk=-eHW0Bw2oou8m6nDrOsqjWS2ySVpg8_mZY-do7UQlV8&fp=random&sni=yahoo.com&sid=4d8485460820c1&spx=%2F#appletv_troya
 vless://8b52fc60-4922-4395-80e5-c33f9ad887fe@3537215-pavlovvg.twc1.net:46888?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision#g1bvgln0
+ss://YWVzLTI1Ni1nY206bTI4N2VvZHBaSHNoOGRLQjdtbXBBRk5BWjBsWG1RVUxNN1d1QVhLVEJMcz0@3537215-pavlovvg.twc1.net:54503?type=tcp#apple_tv4
