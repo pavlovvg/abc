@@ -1,5 +1,5 @@
 vless://cce7475c-182b-42c5-b6e4-768bfa7b868e@3537215-pavlovvg.twc1.net:8443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&sni=3537215-pavlovvg.twc1.net#apple_tv2
-vless://2b3e1b9c-6856-41ca-8555-a7137bdfe9ae@3537215-pavlovvg.twc1.net:443?type=tcp&security=reality&pbk=BbwlzD3vJ-Zb_O4BOaTmrPjEQFy_oZbHhvQ90vzl83E&fp=chrome&sni=google.com&sid=6be0a684bcd4&spx=%2F&flow=xtls-rprx-vision#apple_tv
+vless://2b3e1b9c-6856-41ca-8555-a7137bdfe9ae@3537215-pavlovvg.twc1.net:443?type=tcp&security=reality&pbk=BbwlzD3vJ-Zb_O4BOaTmrPjEQFy_oZbHhvQ90vzl83E&fp=chrome&sni=google.com&sid=6be0a684bcd4&spx=%2F&flow=xtls-rprx-vision-udp443#apple_tv
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJhcHBsZXR2X3ZtZXNzIiwKICAiYWRkIjogIjM1MzcyMTUtcGF2bG92dmcudHdjMS5uZXQiLAogICJwb3J0IjogMzk5MDMsCiAgImlkIjogImIwOTQzMWFiLWFkZTMtNDU2Yi04ZGJmLWFjMTg4MDFhNzc3ZCIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgInRscyI6ICJub25lIgp9
 trojan://2fsePxwDMv@3537215-pavlovvg.twc1.net:25449?type=tcp&security=reality&pbk=-eHW0Bw2oou8m6nDrOsqjWS2ySVpg8_mZY-do7UQlV8&fp=random&sni=yahoo.com&sid=4d8485460820c1&spx=%2F#appletv_troya
 vless://8b52fc60-4922-4395-80e5-c33f9ad887fe@3537215-pavlovvg.twc1.net:46888?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&flow=xtls-rprx-vision#g1bvgln0
